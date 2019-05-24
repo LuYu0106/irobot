@@ -1,7 +1,4 @@
-This is a group project for cs6310 Spring 2019 Assignment 6
-
-Team: A6-6
-Team members: Jing Xue, Yanqun Xu, Xicheng Huang, Lu Yu
+This is a group project for irobot simulation
 
 Files to submit: 
 - design_docs: UML sequence, class, deployment and use case diagrams 
