@@ -1,0 +1,1 @@
+There were no external libraries or non-standard sections used in the implementation of this application.

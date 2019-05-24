@@ -1,0 +1,10 @@
+combine/osmowsis_source/.idea
+**/bin
+**/build
+*.iml
+*.xml
+*.log
+*.classpath
+combine/osmowsis_source/out/
+source_code/osmowsis_source/output_*
+source_code/osmowsis_source/out
